@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="redcard_Empowering" size="1.000000 0.648318" />
+    <ImageTarget name="greycard_Fostering" size="1.000000 0.657321" />
+    <ImageTarget name="toscacard_Teamwork" size="1.000000 0.652174" />
+    <ImageTarget name="aquacard_Innovation" size="1.000000 0.646497" />
+    <ImageTarget name="pinkcard_Respect" size="1.000000 0.633540" />
+    <ImageTarget name="greencard_Integrity" size="1.000000 0.650000" />
+    <ImageTarget name="purplecard_Perseverance" size="1.000000 0.650000" />
+    <ImageTarget name="bluecard_StrivingForExcellence" size="1.000000 0.661442" />
+  </Tracking>
+</QCARConfig>
